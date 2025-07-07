@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/almirall-rddatascience/almirall-rddatascience.r-universe.dev
 	branch = HEAD
-[submodule "azimuth"]
-	path = azimuth
+[submodule "Azimuth"]
+	path = Azimuth
 	url = https://github.com/zeehio/azimuth
