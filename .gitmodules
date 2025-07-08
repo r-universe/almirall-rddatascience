@@ -8,11 +8,9 @@
 [submodule "SeuratData"]
 	path = SeuratData
 	url = https://github.com/satijalab/seurat-data
-	registered = false
 [submodule "SeuratDisk"]
 	path = SeuratDisk
 	url = https://github.com/mojaveazure/seurat-disk
-	registered = false
 [submodule "presto"]
 	path = presto
 	url = https://github.com/immunogenomics/presto
