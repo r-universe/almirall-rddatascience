@@ -11,7 +11,3 @@
 [submodule "SeuratDisk"]
 	path = SeuratDisk
 	url = https://github.com/mojaveazure/seurat-disk
-[submodule "presto"]
-	path = presto
-	url = https://github.com/immunogenomics/presto
-	registered = false
